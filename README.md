@@ -4,4 +4,4 @@
 
 ### I pulled some home rental data at the end of September 2022 from Zillow into Tableau. These are typical home rental rates (weighted with the ZORI formula) encountered in the most expensive metro areas. Glenwood Springs tops the list at $9,000+ a month, certainly skewed by Aspen, no doubt.
 
-### Not shockingly, 5 of the top 7 markets are close to ski resorts and mountain activities. And in general, no surprise, if you're near the ocean or near ski resorts, you're going to pay a lot more to live there.
+### Not shockingly, 5 of the top 7 markets are close to ski resorts and mountain activities. And in general, no surprise, if you're near the ocean or near ski resorts, you're going to pay a lot more to rent a home there.
